@@ -12,7 +12,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://atm-applicatio-9iix.vercel.app",
+    origin: "https://atm-application-inky.vercel.app",
   })
 );
 
